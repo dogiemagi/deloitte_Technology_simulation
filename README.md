@@ -14,5 +14,6 @@ refer this the below link to get know about replit
 https://docs.replit.com/getting-started/intro-replit
 
 task-2 Software Development Proposal (provided template)
+
 I need to create a short, formal, and informative development proposal using the provided template, outlining the overview, scope, estimate, timeline, and support details for a private intranet dashboard that monitors the health of 9 machines in each of Daikibo’s 4 factories.
 The proposal will follow the template’s structure, include references to its graphics, and provide clear man-hour estimates, milestones, and ongoing support information.
