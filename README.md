@@ -2,16 +2,16 @@
 
 task-1 https://replit.com/@mageshwarim567/Task1
 
-using the below repository fork the project and implemented the task
-https://replit.com/@NikolayTsenkov/Task1#main.py
+To complete the function of convert iso date to miliseconds in python
+
+using this (https://replit.com/@NikolayTsenkov/Task1#main.py) repository fork the project and implemented the task
 
 you can download the data1,data2,data3 json files in the above link and try how it works
 
-refer the below link to convert iso date to miliseconds in python
-https://stackoverflow.com/questions/60442518/python-3-convert-iso-8601-to-milliseconds/60443033#60443033
+refer the (https://stackoverflow.com/questions/60442518/python-3-convert-iso-8601-to-milliseconds/60443033#60443033) link to convert iso date to miliseconds in python
 
-refer this the below link to get know about replit
-https://docs.replit.com/getting-started/intro-replit
+refer this (https://docs.replit.com/getting-started/intro-replit) link to get know about replit
+
 
 task-2 Software Development Proposal (provided template)
 
